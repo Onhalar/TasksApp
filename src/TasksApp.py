@@ -1,5 +1,5 @@
 from tkinter import *
-import Utils, DateTime
+import Utils
 
 def main( title:str = "TasksApp" ):
     main = Tk()
